@@ -15,7 +15,7 @@ Data (tiny Shakespeare, ~1 MB) -- download next to this file:
     curl -O https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
  
 Run:
-    python gpt.py
+    python jmoul-gpt.py
 """
 
 
