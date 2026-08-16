@@ -1,0 +1,1 @@
+This is a basic transformer that I hand made in order to teach myself the fundamentals of transformer architecture. Tested it at 10M param scale and training on random webcrawl data. Based on [nanoGPT](https://github.com/karpathy/nanogpt).
